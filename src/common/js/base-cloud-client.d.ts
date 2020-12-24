@@ -1,0 +1,1 @@
+export var base_cloud_client: any;
